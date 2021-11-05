@@ -1,4 +1,4 @@
-Java is a high level, object-oriented, platform independent language used by many all around the world.
+Java is a high level, object-oriented, platform independent language that is used by many all around the world.
 
 Java, unlike some languages before it allows for the use of words and commands instead of just symbols and numbers. Java also allows for the creation of advanced data types called objects which represent real world things like a chair or a computer where you can set the attributes of these objects and things they do.
 
@@ -7,3 +7,5 @@ Java is very flexible - it can be used to develop software as well as applets (s
 Learning Java serves as a good introduction to software development and can be learnt at any stage.
 
 The tutorials in this section included information on a wide variety of Java topics including printing text, working with variables, loops, strings, creating classes and instantiating objects, accepting user input, creating graphical applications, and many more.
+
+Thank You.
