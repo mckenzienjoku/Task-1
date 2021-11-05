@@ -4,6 +4,6 @@ Java, unlike some languages before it allows for the use of words and commands i
 
 Java is very flexible - it can be used to develop software as well as applets (small programs that run on webpages). But the flexibility doesn't end there because you can run the same Java programs on various operating systems without having to rewrite the code (unlike some other languages such as C and C++) thanks to the Java run-time environment which interprets Java code and tells the operating system what to do.
 
-Learning Java serves as a good introduction to software development.
+Learning Java serves as a good introduction to software development and can be learnt at any stage.
 
-The tutorials in this section included information on a wide variety of Java topics including printing text, working with variables, loops, strings, creating classes and instantiating objects, accepting user input, creating graphical applications, and more.
+The tutorials in this section included information on a wide variety of Java topics including printing text, working with variables, loops, strings, creating classes and instantiating objects, accepting user input, creating graphical applications, and many more.
